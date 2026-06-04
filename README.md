@@ -42,9 +42,9 @@ Key findings:
 ## ⚠️ Important Note
 
 This project is:
-- ❌ Not a medical device
-- ❌ Not clinically tested
-- ❌ Not deployed in real environments
+-  Not a medical device
+-  Not clinically tested
+-  Not deployed in real environments
 
 It is strictly a **theoretical and educational research framework**.
 
