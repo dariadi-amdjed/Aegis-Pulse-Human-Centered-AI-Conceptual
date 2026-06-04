@@ -50,12 +50,6 @@ It is strictly a **theoretical and educational research framework**.
 
 ---
 
-## 📁 Contents
-
-- `/paper` → LaTeX source and final PDF
-- `/figma` → UI/UX prototype references (if included)
-- `/assets` → diagrams and flowcharts
-
 ---
 
 ## 👥 Team
